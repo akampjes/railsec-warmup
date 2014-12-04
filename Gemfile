@@ -13,6 +13,8 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'foundation-rails'
 gem 'therubyracer', :platform=>:ruby
+gem 'faker'
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
