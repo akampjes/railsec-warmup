@@ -17,6 +17,6 @@ Getting Started
 ~~~bash
 bundle install
 bundle exec rake db:setup
-bundle exec rails server
+bundle exec rails s -b localhost
 ~~~
 
