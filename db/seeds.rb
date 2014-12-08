@@ -27,7 +27,7 @@ User.create(
     password: (password = SecureRandom.base64),
     password_confirmation: password,
     name: 'Edward Snowden',
-    sekret: 'They can hear your throughts'
+    sekret: 'They can hear your thoughts'
   )
 print 's'
 
