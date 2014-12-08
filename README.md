@@ -1,7 +1,7 @@
 Warmup
 ================
 
-Warmup, lets find the 'sekret' belonging to `ed.snowden@nsa.govt`
+Signup and then find the 'sekret' belonging to `ed.snowden@nsa.govt`
 
 Ruby on Rails
 -------------
@@ -17,6 +17,6 @@ Getting Started
 ~~~bash
 bundle install
 bundle exec rake db:setup
-bundle exec rails s -b localhost
+bundle exec rails server --binding localhost
 ~~~
 
