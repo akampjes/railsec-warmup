@@ -8,7 +8,7 @@ Ruby on Rails
 
 This application requires:
 
-- Ruby 2.1.2
+- Ruby 2.1.7
 - Rails 4.1.8
 
 Getting Started
